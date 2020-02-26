@@ -7,6 +7,6 @@ pageEncoding="ISO-8859-1"%>
 <title>My first project</title>
 </head>
 <body>
-<h2>Hello JSP</h2>
+<h2>Hello JSP - Maven</h2>
 </body>
 </html>
